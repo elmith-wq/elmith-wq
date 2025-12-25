@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- Second Year Computer Science student @ Manchester Metropolitan University with foundational experience using C#, JavaScript, HTML and CSS for coursework and personal projects, open to collaboration on intermediate or beginner projects.
+- Second Year Computer Science student @ Manchester Metropolitan University w/ foundational experience using C#, JavaScript, HTML and CSS for coursework and personal projects, open to collaboration on intermediate or beginner projects.
 
   
 - Microsoft Azure AI Essentials certified, with experience in Azure, Machine Learning, NLP and Generative AI
